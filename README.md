@@ -33,24 +33,16 @@
 ###  GitHub 数据
 <div align="center">
   <!-- 统计卡片 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=by-kobayashi&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-kobayashi&layout=compact&theme=radical" alt="常用语言" style="width: 48%;" />
 </div>
 
----
 
-###  精选项目
-| 项目名称 | 技术栈 | 简介 |
-|---------|--------|------|
-| [项目A](链接) | React + TypeScript | 电商后台管理系统，支持多语言 |
-| [项目B](链接) | Python + FastAPI | 高性能 RESTful API 服务 |
-
----
 
 ###  成就展示
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=flat&row=1" alt="GitHub 奖杯" />
-  <img src="https://streak-stats.demolab.com/?user=你的用户名&theme=radical" alt="贡献连续天数" />
+  <img src="https://github-profile-trophy.vercel.app/?username=by-kobayashi&theme=flat&row=1" alt="GitHub 奖杯" />
+  <img src="https://streak-stats.demolab.com/?user=by-kobayshi&theme=radical" alt="贡献连续天数" />
 </div>
 
 ---
