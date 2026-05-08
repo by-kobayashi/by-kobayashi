@@ -14,18 +14,31 @@
 
 ---
 
-###  技术栈
+### 💻 技术栈与工具
+
 <div align="center">
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <!-- 后端 -->
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <!-- 移动端开发：Kotlin, Jetpack Compose, Java -->
+  <h4>📱 移动端开发</h4>
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jetpack_Compose-3F3F3F?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  
+  <!-- 通用编程 -->
+  <h4>⚙️ 通用编程</h4>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <!-- 工具 -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  
+  <!-- 嵌入式/底层 -->
+  <h4>🔧 嵌入式与底层</h4>
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  
+  <!-- 开发工具 -->
+  <h4>🛠️ 开发工具</h4>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Terminal-0C0C0C?style=flat-square&logo=gnome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
 </div>
 
 ---
@@ -42,7 +55,7 @@
 ###  成就展示
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=by-kobayashi&theme=flat&row=1" alt="GitHub 奖杯" />
-  <img src="https://streak-stats.demolab.com/?user=by-kobayshi&theme=radical" alt="贡献连续天数" />
+  <img src="https://streak-stats.demolab.com/?user=by-kobayashi&theme=radical" alt="贡献连续天数" />
 </div>
 
 ---
