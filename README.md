@@ -1,9 +1,11 @@
 <!-- 顶部横幅：适配深色/浅色模式 -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="动态横幅：深色模式显示星空，浅色模式显示太阳" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+</div>
 
 ###  你好，我是 [kobayashi]
 -  目前专注于：[android开发]
@@ -44,15 +46,7 @@
 ---
 
 ###  GitHub 数据
-<div align="center">
-  <!-- 左侧：综合统计 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=by-kobayashi&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;" />
-  <!-- 右侧：贡献连续天数 (已替换不稳定的语言卡片) -->
-  <img src="https://streak-stats.demolab.com/?user=by-kobayashi&theme=radical" alt="贡献连续天数" style="width: 48%;" />
-</div>
 
-
-###  成就展示
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=by-kobayashi&theme=flat&row=1" alt="GitHub 奖杯" />
   <img src="https://streak-stats.demolab.com/?user=by-kobayashi&theme=radical" alt="贡献连续天数" />
