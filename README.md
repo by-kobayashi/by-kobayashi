@@ -45,11 +45,11 @@
 
 ###  GitHub 数据
 <div align="center">
-  <!-- 统计卡片 -->
+  <!-- 左侧：综合统计 -->
   <img src="https://github-readme-stats.vercel.app/api?username=by-kobayashi&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-kobayashi&layout=compact&theme=radical" alt="常用语言" style="width: 48%;" />
+  <!-- 右侧：贡献连续天数 (已替换不稳定的语言卡片) -->
+  <img src="https://streak-stats.demolab.com/?user=by-kobayashi&theme=radical" alt="贡献连续天数" style="width: 48%;" />
 </div>
-
 
 
 ###  成就展示
