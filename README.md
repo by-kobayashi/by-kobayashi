@@ -55,6 +55,13 @@
 ---
 
 ###  保持联系
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的Twitter链接)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](你的LinkedIn链接)
-[![博客](https://img.shields.io/badge/-博客-FF5722?style=flat-square&logo=rss&logoColor=white)](你的博客链接)
+<div align="center">
+  <!-- 微信 (使用 Font Awesome 图标) -->
+  <a href="https://weixin.qq.com/by-kobayashi" target="_blank">
+    <img src="https://img.shields.io/badge/-微信-07C160?style=flat-square&logo=fontawesome&logoColor=white&logoWidth=20&logoData=%7B%22logo%22%3A%22weixin%22%2C%22type%22%3A%22fontawesome%22%7D" alt="微信" />
+  </a>
+  <!-- QQ (使用 Font Awesome 图标) -->
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=2996943369&site=qq&menu=yes" target="_blank">
+    <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=fontawesome&logoColor=white&logoWidth=20&logoData=%7B%22logo%22%3A%22qq%22%2C%22type%22%3A%22fontawesome%22%7D" alt="QQ" />
+  </a>
+</div>
