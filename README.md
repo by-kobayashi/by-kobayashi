@@ -55,7 +55,7 @@
 ---
 
 ###  保持联系
-<div align="center">
+<div align="left">
   <!-- 微信 (使用 Font Awesome 图标) -->
   <a href="https://weixin.qq.com/by-kobayashi" target="_blank">
     <img src="https://img.shields.io/badge/-微信-07C160?style=flat-square&logo=fontawesome&logoColor=white&logoWidth=20&logoData=%7B%22logo%22%3A%22weixin%22%2C%22type%22%3A%22fontawesome%22%7D" alt="微信" />
