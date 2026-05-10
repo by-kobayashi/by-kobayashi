@@ -53,15 +53,15 @@
 </div>
 
 ---
+### 保持联系
 
-###  保持联系
 <div align="left">
-  <!-- 微信 (使用 Font Awesome 图标) -->
-  <a href="https://wx.qq.com/dl/business/?t=by-kobayashi" target="_blank">
-    <img src="https://img.shields.io/badge/-微信-07C160?style=flat-square&logo=fontawesome&logoColor=white&logoWidth=20&logoData=%7B%22logo%22%3A%22weixin%22%2C%22type%22%3A%22fontawesome%22%7D" alt="微信" />
-  </a>
-  <!-- QQ (使用 Font Awesome 图标) -->
+  <!-- 微信 -->
+  ![WeChat](https://img.shields.io/badge/微信号-by--kobayashi-07C160?style=flat-square&logo=wechat&logoColor=white)
+  
+  <!-- QQ -->
   <a href="https://wpa.qq.com/msgrd?v=3&uin=2996943369&site=qq&menu=yes" target="_blank">
-    <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&logo=fontawesome&logoColor=white&logoWidth=20&logoData=%7B%22logo%22%3A%22qq%22%2C%22type%22%3A%22fontawesome%22%7D" alt="QQ" />
+    <img src="https://img.shields.io/badge/QQ-2996943369-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ" />
   </a>
 </div>
+> 💬 **微信号：`by-kobayashi`**（长按或双击选中后复制）
