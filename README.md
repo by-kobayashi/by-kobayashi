@@ -56,12 +56,12 @@
 ### 保持联系
 
 <div align="left">
-  <!-- 微信 -->
-  ![WeChat](https://img.shields.io/badge/微信号-by--kobayashi-07C160?style=flat-square&logo=wechat&logoColor=white)
-  
+    <!-- 微信 -->
+  <a href="#" title="微信号：by-kobayashi（请手动复制）">
+    <img src="https://img.shields.io/badge/微信号-by--kobayashi-07C160?style=flat-square&logo=wechat&logoColor=white" alt="微信" />
+  </a>
   <!-- QQ -->
   <a href="https://wpa.qq.com/msgrd?v=3&uin=2996943369&site=qq&menu=yes" target="_blank">
     <img src="https://img.shields.io/badge/QQ-2996943369-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" alt="QQ" />
   </a>
 </div>
-> 💬 **微信号：`by-kobayashi`**（长按或双击选中后复制）
